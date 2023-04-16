@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Recetas.XSL" type="text/xsl"?>
+
+<sections>
+    <section>
+    <titulo>Fideos de arroz con salteado de tofu y pimiento</titulo>
+    <subtitulo>Receta:</subtitulo>
+    <caracteristicas>
+        <descripciones>
+            <Imagen>../Imagenes/Fideos.PNG</Imagen>
+            <Tiempo><b>Tiempo:</b> 35 minutos</Tiempo>
+            <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+            <Celiacos><b>Celíacos:</b> No</Celiacos>
+            <Vegano><b>Vegano:</b> Sí</Vegano>
+            <Autor><b>Autor:</b> José María</Autor>
+        </descripciones>
+    </caracteristicas>
+</section>
+<section>
+<titulo>Ensalada de quinoa, calabaza asada y granada</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Ensalada.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 45 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> No</Vegano>
+        <Autor><b>Autor:</b> Pepe Gotera</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Tortilla de patatas vegana</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Tortilla.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 30 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Luís Alfonsín</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Revuelto vegano de tofu</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Revuelto.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 15 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Lara Montserrat</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Falafel ligero</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Falafel.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 30 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Difícil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Miquel de les Planes</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Tortilla jugosa vegana de calabacín</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/TortillaCalabacín.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 10 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Martín de Vilanova</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Mantequilla de anacardos</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Mantequilla.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 2 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Marta Gracia</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Curry de garbanzos con mango</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Curry.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 25 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Ferrán dels Horts</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Receta de burritos vegetarianos</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Burritos.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 1 hora</Tiempo>
+        <Dificultad><b>Dificultad:</b> Difícil</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Emilia Sánchez</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Filetes de seitán en salsa de pimienta</titulo> 
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Filetes.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 20 min</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Sancho Alcover</Autor>
+    </descripciones>
+</caracteristicas>
+</section>                
+<section>
+<titulo>Mini hamburguesas de aguacate y quinoa</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/HamburguesasMini.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 30 min</Tiempo>
+        <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Thomson Lerroux</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Tacos veganos de garbanzos y soja</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Tacos.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 15 min</Tiempo>
+        <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Alberto Catalán</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+<titulo>Ensalada vegana de garbanzos tostados y col rizada kale</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 25 min</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Françoise Alguilar</Autor>
+    </descripciones>
+</caracteristicas>
+</section>  
+<section>
+<titulo>Macarrones con tomate y setas</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Macarrones.PNG</Imagen>
+        <Tiempo><b>Tiempo:</b> 15 min</Tiempo>
+        <Dificultad><b>Dificultad:</b> Fácil</Dificultad>
+        <Celiacos><b>Celíacos:</b> No</Celiacos>
+        <Vegano><b>Vegano:</b> No</Vegano>
+        <Autor><b>Autor:</b> Jennifer Bony</Autor>
+    </descripciones>
+</caracteristicas>
+</section>   
+<section>
+<titulo>Hamburguesas veganas de remolacha y lechuga</titulo>
+<subtitulo>Receta:</subtitulo>
+<caracteristicas>
+    <descripciones>
+        <Imagen>../Imagenes/Hamburgesa.jpg</Imagen>
+        <Tiempo><b>Tiempo:</b> 30 minutos</Tiempo>
+        <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+        <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+        <Vegano><b>Vegano:</b> Sí</Vegano>
+        <Autor><b>Autor:</b> Ana Rodriguez</Autor>
+    </descripciones>
+</caracteristicas>
+</section>
+<section>
+    <titulo>Salsas a su chateau</titulo>
+    <subtitulo>Receta:</subtitulo>
+    <caracteristicas>
+        <descripciones>
+            <Imagen>../Imagenes/Hamburgesa.jpg</Imagen>
+            <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+            <Dificultad><b>Dificultad:</b> Bajo</Dificultad>
+            <Celiacos><b>Celíacos:</b> No</Celiacos>
+            <Vegano><b>Vegano:</b> No</Vegano>
+            <Autor><b>Autor:</b> María Guiterrez</Autor>
+        </descripciones>
+    </caracteristicas>
+    </section>
+    <section>
+        <titulo>Macaronis de lima</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/HamburguesasMini.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 301 min</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b> Günter Tambov</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Macaronis de lima y fresa</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/HamburguesasMini.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 32 min</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b> Volodimir Esperanto</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Macaronis de lima y fresa</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/HamburguesasMini.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 32 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b> Volodimir Esperanto</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Ensaladita de fresas</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 32 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Maria Marialola</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Ensaladita de trujillo</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 32 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Juana Sarada</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Ensaladita de frutas del bosque</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 121 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Dificil</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> No</Vegano>
+                <Autor><b>Autor:</b>Maria Marialola</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Tartar de ternera con soja</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> Sí</Celiacos>
+                <Vegano><b>Vegano:</b> No</Vegano>
+                <Autor><b>Autor:</b>Smith de la Sierra</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fideos en su nido y cerveza</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fideos en su nido de papel</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fideos en su nido orientales</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hamburguesa de pollo vegana</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Pollo con salsa verdejo</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Lechuga con pollo</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fideo en su nido</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fidos en su nido</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fideos en su ndo</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+    <section>
+        <titulo>Hojas con fides en su nido</titulo>
+        <subtitulo>Receta:</subtitulo>
+        <caracteristicas>
+            <descripciones>
+                <Imagen>../Imagenes/EnsaladaKale.PNG</Imagen>
+                <Tiempo><b>Tiempo:</b> 12 minutos</Tiempo>
+                <Dificultad><b>Dificultad:</b> Medio</Dificultad>
+                <Celiacos><b>Celíacos:</b> No</Celiacos>
+                <Vegano><b>Vegano:</b> Sí</Vegano>
+                <Autor><b>Autor:</b>Kon Wae Ling</Autor>
+            </descripciones>
+        </caracteristicas>
+    </section>
+</sections>
