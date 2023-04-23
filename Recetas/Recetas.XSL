@@ -43,7 +43,7 @@
   </xsl:template>
 
   <xsl:template match="section">
-    <h4><a href="../index/Receta.html"><xsl:value-of select="titulo"/></a></h4> 
+    <h4><a href="../Receta/Receta.html"><xsl:value-of select="titulo"/></a></h4> 
     <imag><img src="{caracteristicas/descripciones/Imagen}" alt="Imagen de la receta" width="100px"  height="100px"/></imag>
     <lista>
       <li><xsl:value-of select="caracteristicas/descripciones/Tiempo"/></li>
